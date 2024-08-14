@@ -8,3 +8,4 @@ script = ExtResource("1_awss4")
 item_key = 0
 display_name = "Stick"
 icon = ExtResource("1_rbx1e")
+description = "A dry stick"
